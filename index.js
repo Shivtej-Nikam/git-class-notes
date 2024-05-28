@@ -9,5 +9,6 @@ function nbv(){
 } 
 
 function change(){
+    console.log("hello");
     return 8;
 }
